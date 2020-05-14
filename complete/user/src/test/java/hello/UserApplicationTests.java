@@ -42,9 +42,9 @@ public class UserApplicationTests {
 
 	@After
 	public void closeApps() {
-		this.application1.close();
-		this.application2.close();
-		this.application3.close();
+//		this.application1.close();
+//		this.application2.close();
+//		this.application3.close();
 	}
 
 	@LocalServerPort
